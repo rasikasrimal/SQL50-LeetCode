@@ -1,1 +1,1 @@
-# competitive_programming
+# SQL - LeetCode
