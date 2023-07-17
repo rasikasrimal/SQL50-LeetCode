@@ -1,5 +1,6 @@
 # SQL - LeetCode
 Started date - 7/15/2023 <br>
+End date - <br>
 Reference link: https://leetcode.com/studyplan/top-sql-50/ <br>
 Book I used to self studies:  <br>
 ▫️ Head First SQL by Lynn Beighley <br>
