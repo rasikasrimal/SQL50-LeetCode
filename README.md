@@ -6,6 +6,8 @@ Book I used to self studies:  <br>
 ▫️ Head First SQL by Lynn Beighley <br>
 ▫️ Database System Concepts 6th Edition by Abraham Silberschatz <br>
 
+<img src="https://m.media-amazon.com/images/I/71dn19QpfhL._AC_UF1000,1000_QL80_.jpg" height="200"><img src="https://m.media-amazon.com/images/I/61xXsVbV52L._AC_UF1000,1000_QL80_.jpg" height="200">
+
 | Date          | Questions     | Difficulty Level |
 | ------------- | ------------- | -----------------|
 | july 15 2023  | Recyclable and Low Fat Products   | Easy✅     |
