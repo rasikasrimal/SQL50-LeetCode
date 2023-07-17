@@ -1,5 +1,6 @@
 # SQL - LeetCode
-started date - 7/15/2023
+Started date - 7/15/2023
+Reference link: https://leetcode.com/studyplan/top-sql-50/
 
 | Date          | Questions     | Difficulty Level |
 | ------------- | ------------- | -----------------|
