@@ -1,7 +1,7 @@
 # SQL - LeetCode
 Started date - 7/15/2023 <br>
 Reference link: https://leetcode.com/studyplan/top-sql-50/ <br>
-Books I used to self studies: Head First SQL by Lynn Beighley
+Book I used to self studies: Head First SQL by Lynn Beighley
 
 | Date          | Questions     | Difficulty Level |
 | ------------- | ------------- | -----------------|
