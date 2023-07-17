@@ -17,8 +17,6 @@ Book I used to self studies:  <br>
 | july 17 2023  | Replace Employee ID With The Unique Identifier  | Easy✅     |
 
 
-<img src="https://m.media-amazon.com/images/I/71dn19QpfhL._AC_UF1000,1000_QL80_.jpg" height="200"><img src="https://m.media-amazon.com/images/I/61xXsVbV52L._AC_UF1000,1000_QL80_.jpg" height="200">
-
 
 
 
