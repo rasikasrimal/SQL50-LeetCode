@@ -15,11 +15,11 @@ Book I used to self studies:  <br>
 | july 15 2023  | Big Countries   | Easy✅     |
 | july 17 2023  | Invalid Tweets  | Easy✅     |
 | july 17 2023  | Replace Employee ID With The Unique Identifier  | Easy✅     |
-| july 18 2023  | Customer Who Visited but Did Not Make Any Transactions | Easy✅     |
+| july 18 2023  | Customer Who Visited but Did Not Make Any Transactions | NORMAL☑️     |
 | july 18 2023  | Product Sales Analysis I | Easy✅     |
 | july 18 2023  | Product Sales Analysis I | Easy✅     |
 | july 18 2023  | Product Sales Analysis I | Easy✅     |
-| july 18 2023  | Product Sales Analysis I | Easy✅     |
+| july 18 2023  | Product Sales Analysis I | Hard🔴     |
 
 
 
