@@ -18,8 +18,8 @@ Book I used to self studies:  <br>
 | july 18 2023  | Customer Who Visited but Did Not Make Any Transactions | NORMAL☑️     |
 | july 19 2023  | Rising Temperature  | NORMAL☑️     |
 | july 19 2023  | Average Time of Process per Machine | Hard🔴     |
-| july 18 2023  | Product Sales Analysis I | Easy✅     |
-| july 18 2023  | Product Sales Analysis I | Hard🔴     |
+| july 19 2023  | Employee Bonus | Easy✅     |
+| july 19 2023  | Product Sales Analysis I | Hard🔴     |
 
 
 
