@@ -19,7 +19,7 @@ Book I used to self studies:  <br>
 | july 19 2023  | Rising Temperature  | NORMAL☑️     |
 | july 19 2023  | Average Time of Process per Machine | Hard🔴     |
 | july 19 2023  | Employee Bonus | Easy✅     |
-| july 19 2023  | Product Sales Analysis I | Hard🔴     |
+| july 19 2023  | Students and Examinations    | Hard🔴     |
 
 
 
