@@ -20,6 +20,7 @@ Book I used to self studies:  <br>
 | july 19 2023  | Average Time of Process per Machine | Hard🔴     |
 | july 19 2023  | Employee Bonus | Easy✅     |
 | july 19 2023  | Students and Examinations    | Hard🔴     |
+| july 22 2023  | Revise Past Questions    |  NULL  |
 
 
 
