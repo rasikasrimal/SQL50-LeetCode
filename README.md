@@ -8,24 +8,18 @@ Book I used to self studies:  <br>
 
 <img src="https://m.media-amazon.com/images/I/71dn19QpfhL._AC_UF1000,1000_QL80_.jpg" height="200"><img src="https://m.media-amazon.com/images/I/61xXsVbV52L._AC_UF1000,1000_QL80_.jpg" height="200">
 
-| Date          | Questions     | Difficulty Level |
-| ------------- | ------------- | -----------------|
-| july 15 2023  | Recyclable and Low Fat Products   | Easy✅     |
-| july 15 2023  | Find Customer Referee   | Easy✅     |
-| july 15 2023  | Big Countries   | Easy✅     |
-| july 17 2023  | Invalid Tweets  | Easy✅     |
-| july 17 2023  | Replace Employee ID With The Unique Identifier  | Easy✅     |
-| july 18 2023  | Customer Who Visited but Did Not Make Any Transactions | NORMAL☑️     |
-| july 19 2023  | Rising Temperature  | NORMAL☑️     |
-| july 19 2023  | Average Time of Process per Machine | Hard🔴     |
-| july 19 2023  | Employee Bonus | Easy✅     |
-| july 19 2023  | Students and Examinations    | Hard🔴     |
-| july 22 2023  | Revise Past Questions    |  -  |
-
-
-
-
-
-
-
+| Date          | Questions                                       | Difficulty Level |
+| ------------- | ----------------------------------------------- | -----------------|
+| July 15, 2023 | Recyclable and Low Fat Products                 | Easy ✅          |
+| July 15, 2023 | Find Customer Referee                           | Easy ✅          |
+| July 15, 2023 | Big Countries                                   | Easy ✅          |
+| July 17, 2023 | Invalid Tweets                                  | Easy ✅          |
+| July 17, 2023 | Replace Employee ID With The Unique Identifier | Easy ✅          |
+| July 18, 2023 | Customer Who Visited but Did Not Make Any Transactions | Normal ☑️ |
+| July 19, 2023 | Rising Temperature                              | Normal ☑️ |
+| July 19, 2023 | Average Time of Process per Machine            | Hard 🔴          |
+| July 19, 2023 | Employee Bonus                                  | Easy ✅          |
+| July 19, 2023 | Students and Examinations                      | Hard 🔴          |
+| July 22, 2023 | Revise Past Questions                          | -                |
+| July 23 - Aug 30 | Took a break from solving questions and focused on self-study | - |
 
