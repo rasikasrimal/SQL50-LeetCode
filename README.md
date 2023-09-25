@@ -20,11 +20,14 @@ Book I used to self studies:  <br>
 | July 19, 2023  | Average Time of Process per Machine               | Hard 🔴            |
 | July 19, 2023  | Employee Bonus                                    | Easy ✅            |
 | July 19, 2023  | Students and Examinations                         | Hard 🔴            |
-| July 22, 2023  | Revise Past Questions                             | -                  |
+| July 22, 2023  | Revise Past Questions                             | -                   |
 | July 23 - Sept 25 | Took a break from solving questions and focused on self-study | -    |
 | Sept 25, 2023  | Managers with at Least 5 Direct Reports           | Normal ☑️          |
 | Sept 25, 2023  | Confirmation Rate                                 | Normal ☑️          |
 | Sept 25, 2023  | Not Boring Movies                                 | Easy ✅            |
+| Sept 25, 2023  | Average Selling Price                             | Hard 🔴            |
+
+
 
 
 
