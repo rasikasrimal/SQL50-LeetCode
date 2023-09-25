@@ -26,6 +26,9 @@ Book I used to self studies:  <br>
 | Sept 25, 2023  | Confirmation Rate                                 | Normal ☑️          |
 | Sept 25, 2023  | Not Boring Movies                                 | Easy ✅            |
 | Sept 25, 2023  | Average Selling Price                             | Hard 🔴            |
+| Sept 25, 2023  | Project Employees I                               | Easy ✅            |
+
+
 
 
 
