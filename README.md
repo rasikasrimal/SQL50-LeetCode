@@ -30,7 +30,7 @@ Book I used to self studies:  <br>
 | Sept 25, 2023  | Percentage of Users Attended a Contest            | Easy ✅            |
 | Sept 25, 2023  | Queries Quality and Percentage                    | Normal ☑️          |
 | Sept 25, 2023  | Monthly Transactions I                            | Hard 🔴            |
-| Sept 25, 2023  | Immediate Food Delivery II                        | Hard 🔴            |
+| Sept 26, 2023  | Immediate Food Delivery II                        | Hard 🔴            |
 
 
 
