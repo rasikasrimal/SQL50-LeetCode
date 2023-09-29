@@ -34,15 +34,7 @@ Book I used to self studies:  <br>
 | Sept 26, 2023  | ❌❌❌550. Game Play Analysis IV.sql             | ❌❌❌❌❌      |
 | Sept 26, 2023  | Number of Unique Subjects Taught by Each Teacher  | Easy ✅            |
 | Sept 29, 2023  | User Activity for the Past 30 Days I              | Easy ✅            |
-
-
-
-
-
-
-
-
-
+| Sept 29, 2023  | Product Sales Analysis III                        | Easy ✅            |
 
 
 
