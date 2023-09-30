@@ -38,6 +38,9 @@ Book I used to self studies:  <br>
 | Sept 29, 2023  | Classes More Than 5 Students                      | Easy ✅            |
 | Sept 30, 2023  | Find Followers Count                              | Easy ✅            |
 | Sept 30, 2023  | Biggest Single Number                             | Easy ✅            |
+| Sept 30, 2023  | Customers Who Bought All Products                 | Normal ☑️          |
+
+
 
 
 
