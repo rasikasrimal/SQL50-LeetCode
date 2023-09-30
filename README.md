@@ -37,6 +37,10 @@ Book I used to self studies:  <br>
 | Sept 29, 2023  | Product Sales Analysis III                        | Easy ✅            |
 | Sept 29, 2023  | Classes More Than 5 Students                      | Easy ✅            |
 | Sept 30, 2023  | Find Followers Count                              | Easy ✅            |
+| Sept 30, 2023  | Biggest Single Number                             | Easy ✅            |
+
+
+
 
 
 
