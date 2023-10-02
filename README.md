@@ -40,6 +40,9 @@ Book I used to self studies:  <br>
 | Sept 30, 2023  | Biggest Single Number                             | Easy ✅            |
 | Sept 30, 2023  | Customers Who Bought All Products                 | Normal ☑️          |
 | Oct  01, 2023  | ❌❌❌❌❌ The Number of Employees Which Report to Each Employee | ❌❌❌❌❌ |
+| Oct  02, 2023  | Triangle Judgement                                | Easy ✅            |
+
+
 
 
 
