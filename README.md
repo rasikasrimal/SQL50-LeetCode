@@ -43,7 +43,7 @@ Book I used to self studies:  <br>
 | Oct  02, 2023  | Triangle Judgement                                | Easy ✅            |
 | Oct  02, 2023  | Consecutive Numbers                               | Normal ☑️          |
 | Oct  04, 2023  | Last Person to Fit in the Bus                     | Normal ☑️          |
-
+| Oct  04, 2023  | Count Salary Categories                           | Normal ☑️          |
 
 
 
